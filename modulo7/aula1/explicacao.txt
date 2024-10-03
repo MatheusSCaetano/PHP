@@ -1,0 +1,8 @@
+Pessoa{
+    nome 
+    idade
+    peso 
+
+    crescer()
+    comer()   
+}
